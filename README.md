@@ -17,23 +17,10 @@ Nessa versão que criei, a cada vez que a bola colidir com a plataforma, a veloc
 - Tela de Game Over com a opção de reiniciar o jogo.
 - Menu de pausa automático ao perder uma vida, permitindo reposicionar a bola sem perder o incremento de velocidade.
 
-## Requisitos
-
-Para executar o jogo, é necessário ter o **Python** e a biblioteca **Pygame** instalados.
-
-### Instalação do Python
-
-Se você ainda não tem o Python instalado, você pode baixá-lo [aqui](https://www.python.org/downloads/).
-
-### Instalação da biblioteca Pygame
-
-Após instalar o Python, instale a biblioteca Pygame usando o seguinte comando no terminal:
-
-pip install pygame
 
 ### Execução do jogo
 
-Baixe e execute o arquivo pong.exe 
+Baixe e execute o arquivo pong.exe (aoenas no windows)
 
 (esse arquivo .exe foi gerado através do pyinstaller)
 
@@ -43,6 +30,8 @@ Em caso de incompatibilidade (ou se for executar em outros sistemas operacionais
 Execute o arquivo pong.py com: python pong.py
 
 O jogo será iniciado e você verá a tela de menu. Clique no botão "INICIAR" ou pressione a tecla Espaço para começar a jogar.
+
+Obs: Para executar o jogo através do arquivo pong.py é necessário ter o **Python** e a biblioteca **Pygame** instalados.
 
 ### Controles
 
