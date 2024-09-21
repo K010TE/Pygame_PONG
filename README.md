@@ -20,7 +20,7 @@ Nessa versão que criei, a cada vez que a bola colidir com a plataforma, a veloc
 
 ### Execução do jogo
 
-Baixe e execute o arquivo pong.exe (aoenas no windows)
+Baixe e execute o arquivo pong.exe (apenas no windows)
 
 (esse arquivo .exe foi gerado através do pyinstaller)
 
