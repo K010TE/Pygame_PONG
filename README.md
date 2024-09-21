@@ -33,9 +33,14 @@ pip install pygame
 
 ### Execução do jogo
 
-Acesse o diretório do projeto pelo terminal: cd Pygame_PONG
+Baixe e execute o arquivo pong.exe 
 
-E execute o arquivo pong.py com: python pong.py
+(esse arquivo .exe foi gerado através do pyinstaller)
+
+
+Em caso de incompatibilidade (ou se for executar em outros sistemas operacionais que não sejam windows), você deve, após baixar todos os arquivos ou clonar o repositório, acessar o diretório onde o projeto foi salvo através do terminal: cd Pygame_PONG
+
+Execute o arquivo pong.py com: python pong.py
 
 O jogo será iniciado e você verá a tela de menu. Clique no botão "INICIAR" ou pressione a tecla Espaço para começar a jogar.
 
